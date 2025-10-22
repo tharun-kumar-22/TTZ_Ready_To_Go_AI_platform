@@ -2,6 +2,8 @@
 
 Complete step-by-step installation guide for Windows, macOS, and Linux.
 
+**Repository**: https://github.com/tharun-kumar-22/TTZ_Ready_To_Go_AI_platform
+
 ---
 
 ## 📋 **Table of Contents**
@@ -55,12 +57,12 @@ Before installation, ensure you have:
 
 **Option A: Using Git**
 ```cmd
-git clone https://github.com/YOUR_USERNAME/TTZ_ready_to_go-olama.git
-cd TTZ_ready_to_go-olama
+git clone https://github.com/tharun-kumar-22/TTZ_Ready_To_Go_AI_platform.git
+cd TTZ_Ready_To_Go_AI_platform
 ```
 
 **Option B: Download ZIP**
-1. Go to GitHub repository
+1. Go to https://github.com/tharun-kumar-22/TTZ_Ready_To_Go_AI_platform
 2. Click "Code" → "Download ZIP"
 3. Extract to your desired location
 4. Open Command Prompt in that folder
@@ -125,8 +127,8 @@ brew install python@3.11
 
 ### **Step 3: Download Project**
 ```bash
-git clone https://github.com/YOUR_USERNAME/TTZ_ready_to_go-olama.git
-cd TTZ_ready_to_go-olama
+git clone https://github.com/tharun-kumar-22/TTZ_Ready_To_Go_AI_platform.git
+cd TTZ_Ready_To_Go_AI_platform
 ```
 
 ### **Step 4: Install Dependencies**
@@ -178,8 +180,8 @@ ollama serve
 
 ### **Step 3: Download Project**
 ```bash
-git clone https://github.com/YOUR_USERNAME/TTZ_ready_to_go-olama.git
-cd TTZ_ready_to_go-olama
+git clone https://github.com/tharun-kumar-22/TTZ_Ready_To_Go_AI_platform.git
+cd TTZ_Ready_To_Go_AI_platform
 ```
 
 ### **Step 4: Install Dependencies**
@@ -257,8 +259,6 @@ Local URL: http://localhost:8501
 
 - Type questions in chat box
 - Get instant answers from your documents
-
----
 
 ## 🔍 **Troubleshooting**
 
@@ -393,7 +393,7 @@ Switch between them instantly in the app!
 
 ### **Update Application**
 ```bash
-cd TTZ_ready_to_go-olama
+cd TTZ_Ready_To_Go_AI_platform
 git pull origin main
 pip install -r requirements.txt --upgrade
 ```
@@ -411,7 +411,7 @@ ollama pull qwen2.5:7b
 
 Simply delete the folder:
 ```bash
-rm -rf TTZ_ready_to_go-olama
+rm -rf TTZ_Ready_To_Go_AI_platform
 ```
 
 ### **Remove Models**
@@ -435,9 +435,11 @@ sudo rm /usr/local/bin/ollama
 ## 📞 **Need Help?**
 
 - **Documentation**: [README.md](README.md)
-- **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/TTZ_ready_to_go-olama/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/YOUR_USERNAME/TTZ_ready_to_go-olama/discussions)
+- **Issues**: [GitHub Issues](https://github.com/tharun-kumar-22/TTZ_Ready_To_Go_AI_platform/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/tharun-kumar-22/TTZ_Ready_To_Go_AI_platform/discussions)
 
 ---
 
 **Installation complete! Start chatting with your documents! 🎉**
+
+**Repository**: https://github.com/tharun-kumar-22/TTZ_Ready_To_Go_AI_platform
