@@ -57,8 +57,8 @@ Chat with your documents using powerful AI models - completely offline and priva
 
 1. **Download this project**
 ```bash
-   git clone https://github.com/YOUR_USERNAME/TTZ_ready_to_go-olama.git
-   cd TTZ_ready_to_go-olama
+   git clone https://github.com/tharun-kumar-22/TTZ_Ready_To_Go_AI_platform.git
+   cd TTZ_Ready_To_Go_AI_platform
 ```
 
 2. **Install Python dependencies**
@@ -250,8 +250,8 @@ If you find this useful, please give it a ⭐ on GitHub!
 
 ## 📞 **Support**
 
-- **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/TTZ_ready_to_go-olama/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/YOUR_USERNAME/TTZ_ready_to_go-olama/discussions)
+- **Issues**: [GitHub Issues](https://github.com/tharun-kumar-22/TTZ_Ready_To_Go_AI_platform/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/tharun-kumar-22/TTZ_Ready_To_Go_AI_platform/discussions)
 
 ---
 
@@ -268,100 +268,8 @@ Built with:
 
 **Made with ❤️ for the local AI community**
 
+**Repository**: https://github.com/tharun-kumar-22/TTZ_Ready_To_Go_AI_platform
+
 ---
 
 *Last updated: October 2025*
-```
-
----
-
-### **FILE 2: .gitignore**
-
-**Create a new file named `.gitignore` and paste this:**
-```
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# Virtual Environment
-venv/
-env/
-ENV/
-.venv
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# Application specific
-vectors/
-data/
-__pycache__/
-*.pyc
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
-
-# Temporary files
-*.tmp
-temp/
-tmp/
-
-# Environment variables
-.env.local
-.env.*.local
-
-# Streamlit
-.streamlit/secrets.toml
-```
-
----
-
-### **FILE 3: LICENSE**
-
-**Create a new file named `LICENSE` and paste this:**
-```
-MIT License
-
-Copyright (c) 2025 TTZ.KT
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
